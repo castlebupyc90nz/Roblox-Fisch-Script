@@ -57,22 +57,4 @@ We welcome contributions! If you have suggestions to improve the software or wan
 
 Special thanks to the developers and contributors for their dedication and efforts to make this project a success.
 
-## 🔗 Topics
-
-This project is related to several categories within the Roblox community, including:
-- fisch
-- fisch-auto-fishing
-- fisch-cheat
-- fisch-codes
-- fisch-exploit
-- fisch-hack
-- fisch-infinite-money-script
-- fisch-macro-github
-- fisch-script
-- fisch-script-keyless
-- fisch-script-no-key
-- fisch-wiki
-- free-fisch-script
-- roblox-fisch-codes
-
 Enjoy your time fishing and have fun!
