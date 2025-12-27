@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e63deda2-57fb-4781-86fa-266fbf4f2803)# 🎮 Roblox-Fisch-Script - Gain the Edge in Fishing
+## 🎮 Roblox-Fisch-Script - Gain the Edge in Fishing
 
 ## 🚀 Getting Started
 
